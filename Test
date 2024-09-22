@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OutSense Diagnostics</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        header {
+            background-color: #4CAF50;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 3em;
+        }
+
+        header img {
+            max-width: 150px;
+            margin: 10px;
+        }
+
+        section {
+            padding: 40px;
+            max-width: 1200px;
+            margin: 0 auto;
+            text-align: center;
+        }
+
+        section h2 {
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            color: #4CAF50;
+        }
+
+        section p {
+            font-size: 1.2em;
+            margin-bottom: 20px;
+        }
+
+        .cta {
+            display: inline-block;
+            padding: 10px 30px;
+            margin-top: 20px;
+            background-color: #ff6f61;
+            color: white;
+            font-size: 1.2em;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+        }
+
+        .cta:hover {
+            background-color: #ff3f3f;
+        }
+
+        .split {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            margin-top: 40px;
+        }
+
+        .split div {
+            flex: 1;
+            margin: 20px;
+            min-width: 300px;
+        }
+
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            margin-top: 40px;
+        }
+        
+        footer p {
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="/mnt/data/cropped-outsense_logo-2.png" alt="OutSense Logo">
+        <img src="/mnt/data/image.png" alt="Poop Up Logo">
+        <h1>OutSense Diagnostics</h1>
+    </header>
+
+    <section>
+        <h2>Cutting-Edge Health Technology</h2>
+        <p>OutSense הינה חברת סטארט-אפ ישראלית אשר מפתחת טכנולוגיה חדשה, אשר מסוגלת לאבחן מצבים רפואיים על ידי ניתוח תוכן האסלה הביתית.</p>
+        <p>הטכנולוגיה של OutSense משתמשת במכשיר קטן אשר נצמד לאסלה ביתית. מכשיר זה מצויד בחיישן אופטי מתקדם אשר סוקר באופן אוטומטי את תוכן האסלה, כל זאת ללא צורך בהתערבות המשתמש.</p>
+        <p>The OutSense optical virtual database of human urine and stool is the first of its kind. The database is continuously growing, and its unique information can provide invaluable insights into the nature of human physiology.</p>
+        
+        <div class="split">
+            <div>
+                <p>כעת, לכם יש את ההזדמנות לקחת חלק בפרויקט רחב-ממדים זה. כל שתידרשו לעשות הוא להשתמש באסלה הטכנולוגית בעת מתן שתן או צואה.</p>
+            </div>
+            <div>
+                <p>And now, YOU have the opportunity to participate in this wide-ranged project. All you have to do is use our high-tech toilet while urinating or defecating.</p>
+            </div>
+        </div>
+
+        <a href="#" class="cta">Participate Now</a>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 OutSense Diagnostics</p>
+    </footer>
+</body>
+</html>
